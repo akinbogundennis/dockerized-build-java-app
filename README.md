@@ -1,1 +1,2 @@
-# dockerized-build-java-app
+# MyApplicationRepo
+My application repo
